@@ -3,7 +3,7 @@ import Logo from './elements/Logo'
 import Navigator from './elements/Navigator'
 
 
-const Sidebar = ({children } : any) => {
+const Sidebar = ({children }: {children: React.ReactNode}) => {
   return (
     <div className='flex flex-row h-full' >
       <nav className='hidden lg:block w-[240px] border-r-[1px] border-neutral-60'>
