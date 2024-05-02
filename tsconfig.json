@@ -34,7 +34,7 @@
     ".next/types/**/*.ts",
     "components/elements/IconButton.jsx",
     "../../dist/apps/{my-app}/.next/types/**/*.ts"
-, "components/Header.jsx", "app/explore/components/Category.jsx"  ],
+, "components/Header.jsx", "app/explore/components/Category.jsx", "components/GenreCard.jsx"  ],
   "exclude": [
     "node_modules"
   ]
